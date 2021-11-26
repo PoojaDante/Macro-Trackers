@@ -1,0 +1,1682 @@
+{
+   "period":"June 2021",
+   "data":[
+      {
+         "variable":"Passenger vehicle sales growth (domestic)",
+         "code":"pvs",
+         "description":"This reflects the compounded annual growth rate (CAGR) in domestic sales of passenger cars and vans over the past two years. The growth is calculated with reference to the same month two years ago.",
+         "source":"CMIE, SIAM",
+         "upperrange":-0.91,
+         "lowerrange":-10.54,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":-22.5
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":-25.95
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":-21.94
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":-6.03
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":-8.69
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":-8.81
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":-8.37
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":-9.45
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":-35.55
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":-100
+            },
+            {
+               "Year":"May 2020",
+               "Value":-72.81
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":-45.51
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":-27.49
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":-20.87
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":-9.74
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":-1.37
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":-9.29
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":-4.42
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":-8.53
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":-5.99
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":-7.88
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":-4.33
+            },
+            {
+               "Year":"May 2021",
+               "Value":-47.61
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":-4.13
+            }
+         ]
+      },
+      {
+         "variable":"Tractor sales (domestic) growth",
+         "description":"This reflects the compounded annual growth rate (CAGR) in domestic sales of tractors over the past two years. The growth is calculated with reference to the same month two years ago.",
+         "source":" CMIE, Tractor Manufacturers Association",
+         "upperrange":13.31,
+         "lowerrange":5.77,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":2.05
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":-4.67
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":-8.56
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":8.15
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":6.7
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":5.62
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":3.59
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":9.87
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":-34.72
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":-57.7
+            },
+            {
+               "Year":"May 2020",
+               "Value":-6.34
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":2.85
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":9.7
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":20.76
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":10.57
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":1.15
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":14.59
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":21.05
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":23.99
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":26.12
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":16.84
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":5.16
+            },
+            {
+               "Year":"May 2021",
+               "Value":-2.16
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":20.64
+            }
+         ]
+      },
+      {
+         "variable":"Broadband subscribers growth",
+         "description":"This reflects the compounded annual growth rate (CAGR) in broadband subscriber base over the past two years. The growth is calculated with reference to the same month two years ago. (Data available with a lag.)",
+         "source":"CMIE",
+         "upperrange":51.75,
+         "lowerrange":43.04,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":39.4
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":39.45
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":38.75
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":37.6
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":37.32
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":35.06
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":33.45
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":31.8
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":29.08
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":26.92
+            },
+            {
+               "Year":"May 2020",
+               "Value":25.81
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":24.96
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":23.8
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":24.28
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":22.79
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":21.7
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":20.4
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":20.05
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":18.44
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":17.92
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":17.53
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":16.99
+            }
+         ]
+      },
+      {
+         "variable":"Domestic air passengers growth",
+         "description":"This reflects the compounded annual growth rate (CAGR) in the number of passengers flying domestic scheduled airlines, over the past two years. The growth is calculated with reference to the same month two years ago.",
+         "source":"CMIE, Ministry of Civil Aviation.",
+         "upperrange":10.34,
+         "lowerrange":-3.65,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":11.56
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":10.3
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":9.68
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":8.57
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":11.13
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":7.63
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":5.52
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":7.25
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":-18.14
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":-100
+            },
+            {
+               "Year":"May 2020",
+               "Value":-84.65
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":-58.12
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":-57.53
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":-50.03
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":-41.12
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":-33.19
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":-26.08
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":-24
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":-21.41
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":-16.85
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":-17.73
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":-27.75
+            },
+            {
+               "Year":"May 2021",
+               "Value":-58.28
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":-49.04
+            }
+         ]
+      },
+      {
+         "variable":"PMI composite",
+         "description":"The India composite output index is a weighted average of the manufacturing output index and the services business activity index. Index values above 50 indicate expansion in private sector activity, while index values below 50 indicate contraction.",
+         "source":"Bloomberg, Markit Economics",
+         "upperrange":52.62,
+         "lowerrange":48.47,
+         "suffix":"",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":53.9
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":52.6
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":49.8
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":49.6
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":52.7
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":53.7
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":56.3
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":57.6
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":50.6
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":7.2
+            },
+            {
+               "Year":"May 2020",
+               "Value":14.8
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":37.8
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":37.2
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":46
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":54.6
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":58
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":56.3
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":54.9
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":55.8
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":57.3
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":56
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":55.4
+            },
+            {
+               "Year":"May 2021",
+               "Value":48.1
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":43.1
+            }
+         ]
+      },
+      {
+         "variable":"Core (8 infrastructure sectors) growth",
+         "description":"This indicator reflects the compounded annual growth rate (CAGR) in the index of eight core infrastructure industries over the past two years. The growth is calculated with reference to the same month two years ago. The eight industries 2013 electricity, steel, refinery products, crude oil, coal, cement, natural gas and fertilizers 2013 comprise 40.27% of the weight of items included in the Index of Industrial Production. (Data available with a lag.)",
+         "source":"Bloomberg, Ministry of Commerce and Industry",
+         "upperrange":3.30,
+         "lowerrange":1.23,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":4.95
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":2.24
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":-0.53
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":-0.5
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":2.01
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":2.59
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":1.85
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":4.28
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":-1.64
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":-19.16
+            },
+            {
+               "Year":"May 2020",
+               "Value":-9.67
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":-5.86
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":-2.61
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":-3.6
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":-2.32
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":-3.04
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":-0.21
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":1.73
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":1.72
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":1.43
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":0.92
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":0
+            },
+            {
+               "Year":"May 2021",
+               "Value":-4.19
+            }
+         ]
+      },
+      {
+         "variable":"Bank non-food credit growth",
+         "description":"This reflects the compounded annual growth rate (CAGR) in the outstanding amount of credit to businesses over the past two years. The growth is calculated with reference to the same month two years ago. (Data available with a lag.)",
+         "source":"Bloomberg, RBI",
+         "upperrange":8.89,
+         "lowerrange":8.02,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":10.97
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":11.11
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":9.67
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":10.79
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":10.42
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":9.86
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":10.77
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":10.21
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":9.46
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":9.57
+            },
+            {
+               "Year":"May 2020",
+               "Value":9.12
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":8.87
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":9.04
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":7.9
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":6.91
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":6.91
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":6.61
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":6.43
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":7.1
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":6.91
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":5.79
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":6.34
+            },
+            {
+               "Year":"May 2021",
+               "Value":6.17
+            }
+         ]
+      },
+      {
+         "variable":"Rail freight traffic growth",
+         "description":"This reflects the compounded annual growth rate (CAGR) in the freight traffic of major commodities (in weight) over the past two years. The growth is calculated with reference to the same month two years ago.",
+         "source":"CMIE, Ministry of Railways",
+         "upperrange":3.15,
+         "lowerrange":1.12,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":2.87
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":-0.6
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":-1.6
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":0.35
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":2.97
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":3.76
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":2.6
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":5.41
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":-4.21
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":-18.3
+            },
+            {
+               "Year":"May 2020",
+               "Value":-9.96
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":-3
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":-1.52
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":-1.22
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":3.87
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":2.96
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":4.83
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":6.46
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":5.54
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":5.99
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":4.39
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":5.1
+            },
+            {
+               "Year":"May 2021",
+               "Value":4.64
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":5.45
+            }
+         ]
+      },
+      {
+         "variable":"Import cover (FX reserves in months)",
+         "description":"This indicator measures the number of months of imports that can be covered with foreign exchange reserves available with the central bank of the country.",
+         "source":"Bloomberg",
+         "upperrange":12.86,
+         "lowerrange":11.43,
+         "suffix":"(FX reserves in months)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":10.42
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":10.44
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":10.66
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":10.95
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":11.21
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":11.38
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":11.45
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":12.18
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":12.91
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":15.02
+            },
+            {
+               "Year":"May 2020",
+               "Value":16.47
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":17.79
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":18.76
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":18.92
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":18.82
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":19.15
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":19.38
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":18.9
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":14.06
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":14.17
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":13.28
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":13.32
+            },
+            {
+               "Year":"May 2021",
+               "Value":13.9
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":14.21
+            }
+         ]
+      },
+      {
+         "variable":"Rupee vs Dollar",
+         "description":"This indicator reflects the month-on-month change in the average daily USD-INR exchange rate.",
+         "source":"Bloomberg",
+         "upperrange":0.14,
+         "lowerrange":-0.55,
+         "suffix":"(% MoM)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":0.96
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":-3.47
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":-0.28
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":0.42
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":-0.6
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":0.42
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":-0.15
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":-0.29
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":-4.12
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":-2.42
+            },
+            {
+               "Year":"May 2020",
+               "Value":0.74
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":-0.09
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":1.03
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":0.45
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":1.5
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":0.06
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":-1.09
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":0.87
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":0.69
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":0.43
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":-0.01
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":-2.35
+            },
+            {
+               "Year":"May 2021",
+               "Value":1.74
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":-0.47
+            }
+         ]
+      },
+      {
+         "variable":"Labour-intensive exports growth",
+         "description":"This reflects the compounded annual growth rate (CAGR) in exports of labour-intensive sectors over the past two years. The growth is calculated with reference to the same month two years ago. The sectors include tobacco, leather & leather manufactures, gems & jewellery, man-made yarn/fabs/made-ups etc, readymade garments of textiles, jute manufacturing, carpets and handicrafts (excluding handmade carpets).",
+         "source":"CMIE",
+         "upperrange":-1.35,
+         "lowerrange":-7.99,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":5.5
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":3.64
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":-13.94
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":7.36
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":-7.21
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":-6.84
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":-0.94
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":-6.23
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":-19.59
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":-77.42
+            },
+            {
+               "Year":"May 2020",
+               "Value":-42.79
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":-28.12
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":-20.58
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":-18.55
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":-8.99
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":-5.14
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":-3.17
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":-2.86
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":-6.07
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":-10.56
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":-1.17
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":4.11
+            },
+            {
+               "Year":"May 2021",
+               "Value":-8.92
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":-4.74
+            }
+         ]
+      },
+      {
+         "variable":"Trade balance",
+         "description":"This indicator reflects India's trade balance as a percentage of India's total trade. The data on India's merchandise exports and imports for the previous month is released in the third week of every month.",
+         "source":" CMIE, Ministry of Commerce and Industry",
+         "upperrange":-17.71,
+         "lowerrange":-20.28,
+         "suffix":"(as % of total trade)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":-21.3
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":-21.05
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":-18.32
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":-18.3
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":-19.83
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":-18.72
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":-22.83
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":-15.48
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":-18.84
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":-25.37
+            },
+            {
+               "Year":"May 2020",
+               "Value":-8.59
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":1.84
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":-10.01
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":-15.21
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":-5.1
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":-15.52
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":-17.85
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":-22.4
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":-20.78
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":-18.98
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":-16.48
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":-19.69
+            },
+            {
+               "Year":"May 2021",
+               "Value":-8.87
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":-12.6
+            }
+         ]
+      },
+      {
+         "variable":"CPI inflation",
+         "description":"This indicator reflects India's retail inflation based on the Consumer Price Index (CPI). Inflation is calculated using the change in the CPI over the past two years. Compounded annual growth rate (CAGR) is used to give the average year-on-year change.",
+         "source":"Bloomberg, MOSPI",
+         "upperrange":4.18,
+         "lowerrange":4.57,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":3.66
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":3.48
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":3.84
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":4
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":3.92
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":4.7
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":4.74
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":4.56
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":4.34
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":5.08
+            },
+            {
+               "Year":"May 2020",
+               "Value":4.65
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":4.69
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":4.92
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":4.97
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":5.62
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":6.1
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":6.23
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":5.96
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":5.81
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":5.8
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":5.68
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":5.71
+            },
+            {
+               "Year":"May 2021",
+               "Value":6.28
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":6.24
+            }
+         ]
+      },
+      {
+         "variable":"Core CPI inflation",
+         "description":"This indicator reflects India's retail inflation excluding volatile components such as food & beverages; pan, tobacco and alcohol; LPG, kerosene, and other fuels within fuel and light sub-component; and petrol and diesel within transportation and communication category under the miscellaneous sub-component of CPI index. It carries a weight of 47.4% in the CPI basket.  Inflation is calculated using the change in the index over the past two years. Compounded annual growth rate (CAGR) is used to give the average year-on-year change.",
+         "source":"Bloomberg",
+         "upperrange":4.71,
+         "lowerrange":4.86,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":5.27
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":5.07
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":4.9
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":4.81
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":4.59
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":4.72
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":4.77
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":4.68
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":4.46
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":4.67
+            },
+            {
+               "Year":"May 2020",
+               "Value":4.58
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":4.55
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":4.81
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":4.82
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":4.67
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":4.45
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":4.52
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":4.56
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":4.76
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":4.83
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":4.83
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":4.98
+            },
+            {
+               "Year":"May 2021",
+               "Value":5.55
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":5.63
+            }
+         ]
+      },
+      {
+         "variable":"Real rural wage growth",
+         "description":"This reflects the compounded annual growth rate (CAGR) in real wages over the past two years. Real wages are computed as nominal rural wage deflated using the CPI rural index. (Data available with a lag.) The growth is calculated with reference to the same month two years ago.",
+         "source":"CMIE",
+         "upperrange":0.61,
+         "lowerrange":0.16,
+         "suffix":"(YoY %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":0.47
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":0.65
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":0.19
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":-0.11
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":0.17
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":-0.85
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":-0.49
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":-0.11
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":0.06
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":0.06
+            },
+            {
+               "Year":"May 2020",
+               "Value":1.43
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":1.63
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":1.44
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":0.43
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":-1.04
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":-1.9
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":-1.95
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":-1.25
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":-0.91
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":-0.69
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":-0.3
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":-0.28
+            },
+            {
+               "Year":"May 2021",
+               "Value":-1.25
+            }
+         ]
+      },
+      {
+         "variable":"Labour force participation rate",
+         "description":"This indicator reflects the estimated share of India's population aged 15 or above who are either 1) employed, or 2) unemployed but willing to work and are actively looking for a job. This is based on a monthly survey by the Centre for Monitoring Indian Economy (CMIE).",
+         "source":"CMIE survey",
+         "upperrange":43.44,
+         "lowerrange":42.36,
+         "suffix":"(net response %)",
+         "values":[
+            {
+               "Year":"Jul 2019",
+               "Value":42.69
+            },
+            {
+               "Year":"Aug 2019",
+               "Value":43.02
+            },
+            {
+               "Year":"Sep 2019",
+               "Value":42.81
+            },
+            {
+               "Year":"Oct 2019",
+               "Value":42.9
+            },
+            {
+               "Year":"Nov 2019",
+               "Value":42.3
+            },
+            {
+               "Year":"Dec 2019",
+               "Value":42.66
+            },
+            {
+               "Year":"Jan 2020",
+               "Value":42.9
+            },
+            {
+               "Year":"Feb 2020",
+               "Value":42.6
+            },
+            {
+               "Year":"Mar 2020",
+               "Value":41.9
+            },
+            {
+               "Year":"Apr 2020",
+               "Value":35.57
+            },
+            {
+               "Year":"May 2020",
+               "Value":38.57
+            },
+            {
+               "Year":"Jun 2020",
+               "Value":40.3
+            },
+            {
+               "Year":"Jul 2020",
+               "Value":40.61
+            },
+            {
+               "Year":"Aug 2020",
+               "Value":40.96
+            },
+            {
+               "Year":"Sep 2020",
+               "Value":40.68
+            },
+            {
+               "Year":"Oct 2020",
+               "Value":40.62
+            },
+            {
+               "Year":"Nov 2020",
+               "Value":40.08
+            },
+            {
+               "Year":"Dec 2020",
+               "Value":40.56
+            },
+            {
+               "Year":"Jan 2021",
+               "Value":40.59
+            },
+            {
+               "Year":"Feb 2021",
+               "Value":40.43
+            },
+            {
+               "Year":"Mar 2021",
+               "Value":40.17
+            },
+            {
+               "Year":"Apr 2021",
+               "Value":39.98
+            },
+            {
+               "Year":"May 2021",
+               "Value":40.04
+            },
+            {
+               "Year":"Jun 2021",
+               "Value":39.57
+            }
+         ]
+      }
+   ]
+}
